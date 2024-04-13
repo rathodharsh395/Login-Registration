@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.button-container {
+    margin-top: 20px;
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    border: 2px solid #0074D9;
+    border-radius: 5px;
+    background-color: #0074D9;
+    color: white;
+    text-decoration: none;
+}
+.button:hover {
+    background-color: #0056b3;
+}
